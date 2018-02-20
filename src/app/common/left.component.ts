@@ -7,5 +7,4 @@ import {} from '@angular/core';
   </div>`
 } )
 export class LeftComponent {
-  
 }
